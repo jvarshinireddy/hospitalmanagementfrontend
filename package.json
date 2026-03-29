@@ -9,6 +9,6 @@
     "preview": "npm --prefix react-dashboard run preview"
   },
   "engines": {
-    "node": ">=18"
+    "node": "18.x"
   }
 }
